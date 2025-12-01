@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "金魚花火",
+  "base_artist": "大塚 愛",
+  "createdAt": "2025-12-01T12:52:25.897033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "金魚花火",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/01_金魚花火_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "金魚花火",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/02_金魚花火_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "金魚花火",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/03_金魚花火_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "金魚花火",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/04_金魚花火_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "金魚花火",
+      "artist": "Otsuka, Ai",
+      "has_synced": true,
+      "path": "select/05_金魚花火_Otsuka,_Ai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "金魚花火",
+      "artist": "大塚 愛",
+      "has_synced": true,
+      "path": "select/06_金魚花火_大塚_愛.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金魚花火",
+      "artist": "大塚 愛",
+      "has_synced": false,
+      "path": "select/pl_01_金魚花火_大塚_愛.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "金魚花火",
+      "artist": "大塚 愛",
+      "has_synced": false,
+      "path": "select/pl_02_金魚花火_大塚_愛.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "金魚花火",
+      "artist": "大塚 愛",
+      "has_synced": false,
+      "path": "select/pl_03_金魚花火_大塚_愛.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "金魚花火",
+      "artist": "大塚 愛",
+      "has_synced": false,
+      "path": "select/pl_04_金魚花火_大塚_愛.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "金魚花火",
+      "artist": "大塚 愛",
+      "has_synced": false,
+      "path": "select/pl_05_金魚花火_大塚_愛.txt"
+    }
+  ]
+}
